@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+}
+#title {
+    text-align: center;
+    font-size: 64px;
+}
+
+ul {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.recipe {
+    display: inline-block;
+    list-style: none;
+    padding-right: 24px;
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+}
